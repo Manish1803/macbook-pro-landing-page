@@ -7,7 +7,9 @@ function App() {
   return (
     <div className="w-full h-screen bg-gray-950">
       <div className="absolute text-cyan-50 top-32 left-1/2 -translate-x-1/2 font-[`Helvetica_Now_Display`]">
-        <h3 className={"text-7xl tracking-tighter font-[700] text-hover"}>
+        <h3
+          className={"masked text-7xl tracking-tighter font-[700] text-hover"}
+        >
           macbook pro.
         </h3>
         <h5></h5>
